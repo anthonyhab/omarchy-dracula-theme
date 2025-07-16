@@ -1,44 +1,22 @@
-# Dracula Theme for Omarchy
+# Omarchy Dracula Theme
 
-A dark theme based on the popular Dracula color scheme for Omarchy window manager.
+Dracula color scheme for Omarchy window manager, primarily created by Claude Code
 
 ## Installation
 
 ```bash
-omarchy-theme-install https://github.com/omacom-io/omarchy-dracula-theme.git
+omarchy-theme-install https://github.com/anthonyhab/omarchy-dracula-theme.git
 ```
 
-## Included Configurations
+## Extra Features
 
-- **Alacritty** - Terminal emulator
-- **btop** - System monitor
-- **Hyprland** - Window manager
-- **Hyprlock** - Lock screen
-- **Kitty** - Terminal emulator
-- **Mako** - Notification daemon
-- **Neovim** - Text editor
-- **Waybar** - Status bar
-- **Wofi** - Application launcher
-
-## Color Palette
-
-The Dracula theme features:
-- Background: #282a36
-- Current Line: #44475a
-- Foreground: #f8f8f2
-- Comment: #6272a4
-- Cyan: #8be9fd
-- Green: #50fa7b
-- Orange: #ffb86c
-- Pink: #ff79c6
-- Purple: #bd93f9
-- Red: #ff5555
-- Yellow: #f1fa8c
+- **Kitty**: Includes clipboard to path functionality with `ctrl+v` for Claude Code.
+- **Mako**: Custom purple progress bar colors for volume/brightness slider notification.
 
 ## Preview
 
-![Dracula Theme](https://draculatheme.com/static/img/screenshots/sublime.png)
+![Dracula Theme Preview](https://github.com/anthonyhab/omarchy-dracula-theme/releases/download/v1.0/dracula_screenshot.png)
 
 ## Contributing
 
-Feel free to submit issues and pull requests to improve the theme.
+Contributions are welcome! Feel free to submit issues and pull requests to improve the theme.
